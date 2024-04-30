@@ -1,0 +1,8 @@
+li>.active {
+    background: gray;
+    color: white;
+    padding: 3px;
+    border-radius: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
